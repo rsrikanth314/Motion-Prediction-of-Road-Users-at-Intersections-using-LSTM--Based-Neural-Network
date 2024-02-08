@@ -3,7 +3,7 @@
 
 This repository contains the code and related materials for the project on motion prediction of road users at intersections using a Long Short-Term Memory (LSTM)-based neural network.
 
-## Abstract
+## Overview
 
 With the increasing demand for intelligent autonomous systems on roads and in human environments, the capacity of such systems to sense, analyze, and predict behavior is highly important. This project focuses on the motion prediction of road users, particularly at intersections, using a neural network-based approach, specifically LSTM. The project provides a multivariate, multi-output, multi-step LSTM model to forecast the future positions of dynamic agents.
 
