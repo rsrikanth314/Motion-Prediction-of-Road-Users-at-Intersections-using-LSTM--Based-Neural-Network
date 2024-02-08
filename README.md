@@ -34,7 +34,8 @@ To replicate or extend the project, follow these steps:
 
 
 
-Usage
+## Usage
+
 The project involves several components:
 
 Data Processing: Check the data_processing directory for scripts or notebooks related to data preprocessing.
@@ -46,39 +47,6 @@ Evaluation: Evaluate the performance of the models using scripts or notebooks in
 Visualization: Visualize the results with scripts or notebooks found in the visualization directory.
 
 Results: Review the prediction results in the Excel files (NN_prediction_result_Model_1_TestingID_28.xlsx and NN_prediction_result_Model_2_TestingID_28.xlsx).
-
-Results
-The project has demonstrated a slight improvement in forecasting the behavior of traffic participants using the LSTM model. Detailed results and analysis can be found in the NN_prediction_result_Model_1_TestingID_28.xlsx and NN_prediction_result_Model_2_TestingID_28.xlsx files.
-
-Contributing
-Feel free to contribute to the project by following these steps:
-
-Fork the repository.
-
-Create a new branch:
-
-bash
-Copy code
-git checkout -b feature-name
-Commit your changes:
-
-bash
-Copy code
-git commit -m 'Add new feature'
-Push to the branch:
-
-bash
-Copy code
-git push origin feature-name
-Submit a pull request.
-
-License
-This project is licensed under the MIT License.
-
-vbnet
-Copy code
-
-Please replace `[your-username]` with your actual GitHub username. This README provides detailed information about the project structure, components, and how to get started with the code. Adjust any details as needed for your specific project.
 
 
 
